@@ -87,7 +87,7 @@ class ChartPie extends HTMLElement {
       .attr("dy", "5px")
       .attr("font-size", "12px")
       .attr("text-anchor", "middle")
-      .text((d) => d.data.name + " " + Num.addComma(d.data.count || d.data.value) + " " + (parseInt(d.data.count || d.data.value) / sum * 100).toFixed(1) + "%");
+      .text((d) => d.data.count == 0 ? "" : d.data.name + " " + Num.addComma(d.data.count || d.data.value) + " " + (parseInt(d.data.count || d.data.value) / sum * 100).toFixed(1) + "%");
     
     pieGroup.append("text")
       .attr("fill", "black")
