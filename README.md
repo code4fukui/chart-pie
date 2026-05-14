@@ -9,7 +9,7 @@ A lightweight Web Component for creating responsive pie charts from CSV or JavaS
 [Live demo](https://code4fukui.github.io/chart-pie/)
 
 
-![A pie chart showing resource counts by group from data.go.jp, with labels for name, count, and percentage on each slice, and the total count in the center.](https://code4fukui.github.io/chart-pie/chart-pie.png)
+![A pie chart showing resource counts by group from data.go.jp, with labels for name, count, and percentage on each slice, and the total count in the center.](https://github.com/code4fukui/chart-pie)
 
 
 ## Features

@@ -6,7 +6,7 @@ CSVまたはJavaScriptデータからレスポンシブな円グラフを作成�
 
 [ライブデモ](https://code4fukui.github.io/chart-pie/)
 
-![data.go.jpのデータからグループごとのリソース数を示す円グラフ。各スライスに名前、数値、パーセンテージのラベルが表示され、中央に合計数が表示されています。](https://code4fukui.github.io/chart-pie/chart-pie.png)
+![data.go.jpのデータからグループごとのリソース数を示す円グラフ。各スライスに名前、数値、パーセンテージのラベルが表示され、中央に合計数が表示されています。](https://github.com/code4fukui/chart-pie)
 
 ## 特徴
 
